@@ -1,0 +1,33 @@
+﻿{
+	"version": 1765754594,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-3.4.1.min.js",
+		"offlineClient.js",
+		"images/player-sheet0.png",
+		"images/sprite-sheet0.png",
+		"images/sprite2-sheet0.png",
+		"images/water.png",
+		"images/tiledbackground.png",
+		"images/water2.png",
+		"images/yoshohai-sheet0.png",
+		"images/speaknowandguidetheplayerusingyourvoice—justsayoutloudyoshohai-sheet0.png",
+		"images/exit-sheet0.png",
+		"images/yoshohai2-sheet0.png",
+		"images/play-sheet0.png",
+		"media/yosho  [music].m4a",
+		"media/yosho  [music].ogg",
+		"media/yoshy[vocals].m4a",
+		"media/yoshy[vocals].ogg",
+		"media/1214(1).m4a",
+		"media/1214(1).ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"adapter.js"
+	]
+}
